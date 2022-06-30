@@ -1,6 +1,4 @@
-Prnouns: He/Him
-
-
+Pronouns: He/Him
 
 Discord Alt Accounts:
 - VoidRose#9518
