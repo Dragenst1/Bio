@@ -5,3 +5,4 @@ Discord Alt Accounts:
 - WhiteRose#0117
 
 [Steam Profile](https://steamcommunity.com/id/Dragenst1)
+[Discord Stream Server](https://discord.com/invite/Fnpe7tCj5d)
