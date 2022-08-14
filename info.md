@@ -1,5 +1,8 @@
 Pronouns: He/Him
 
+Discord Account:
+- Dragenst#0691
+
 Discord Alt Accounts:
 - VoidRose#9518
 - WhiteRose#0117
