@@ -9,4 +9,4 @@ Discord Alt Accounts:
 
 <a href="https://steamcommunity.com/id/Dragenst1" target="_blank">Steam User Profile</a>
 
-<a href="https://discord.com/invite/Fnpe7tCj5d" target="_blank">Discord Stream Server</a>
+<a href="https://discord.com/invite/Fnpe7tCj5d">Discord Stream Server</a>
