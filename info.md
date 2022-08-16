@@ -9,4 +9,4 @@ Discord Alt Accounts:
 
 [Steam User Profile](https://steamcommunity.com/id/Dragenst1)
 
-[Discord Stream Server](tps://discord.com/invite/Fnpe7tCj5d)
+[Discord Stream Server](https://discord.com/invite/Fnpe7tCj5d)
