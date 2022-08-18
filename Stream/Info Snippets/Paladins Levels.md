@@ -51,12 +51,10 @@ Koga      24 //
 Lex       24 //
 Willo     24 //
 Talus     22 //
-Rei       22
-
+Rei       22 //
 Vora      19 //
 Imani     17 //
-Yagorath  12
-
+Yagorath  12 //
 Octavia   9 //
 Saati     7 //
 Lilith    6 //
