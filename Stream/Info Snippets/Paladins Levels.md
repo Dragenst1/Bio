@@ -1,4 +1,4 @@
-Paladins champion levels
+<h2>Paladins champion levels</h2>
 
 Furia     277
 
