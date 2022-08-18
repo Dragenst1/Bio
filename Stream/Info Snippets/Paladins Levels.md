@@ -44,4 +44,23 @@ Atlas     30
 Moji      28
 Vivian    28
 Corvus    27
-Tiberious 26
+Tiberius  26
+Raum      26
+Skye      25
+Koga      24
+Lex       24
+Willo     24
+Talus     22
+Rei       22
+
+Vora      19
+Imani     17
+Yagorath  12
+
+Octavia   9
+Saati     7
+Lilith    6
+Vatu      5
+Azaan     0
+Betty     0
+VII       0
