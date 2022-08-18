@@ -33,8 +33,7 @@ Sha Lin   49 //
 Evie      47 //
 Cassie    46 //
 Io        44 //
-Torvald   42
-
+Torvald   42 //
 Kinessa   39 //
 Terminus  37 //
 Pip       34 //
