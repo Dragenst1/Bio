@@ -1,6 +1,7 @@
 Paladins champion levels
 
-Furia     277 //
+Furia     277
+
 Damba     137
 
 Jenos     92 //
