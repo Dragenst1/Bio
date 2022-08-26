@@ -1,12 +1,12 @@
 <h2>Paladins champion levels</h2>
 
-Furia     277
+Furia     280
 
-Damba     137 //
+Damba     138 //
 Jenos     92 //
 Ying      82 //
 Khan      79 //
-Seris     76 //
+Seris     77 //
 Grover    72 //
 Barik     71
 
@@ -20,7 +20,7 @@ BK        60
 
 Lian      59 //
 Strix     57 //
-Grohk     56 //
+Grohk     57 //
 Zhin      54 //
 Ruckus    53 //
 Makoa     53 //
