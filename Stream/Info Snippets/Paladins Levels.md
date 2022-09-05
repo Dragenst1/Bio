@@ -1,6 +1,6 @@
 <h2>Paladins champion levels</h2>
 
-Furia     280
+Furia     283
 
 Damba     138 //
 Jenos     92 //
@@ -33,7 +33,7 @@ Evie      47 //
 Cassie    46 //
 Io        44 //
 Torvald   42 //
-Kinessa   39 //
+Kinessa   40 //
 Terminus  37 //
 Pip       34 //
 Tyra      32 //
