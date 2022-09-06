@@ -1,6 +1,6 @@
 <h2>Paladins champion levels</h2>
 
-Furia     283
+Furia     284
 
 Damba     138 //
 Jenos     92 //
