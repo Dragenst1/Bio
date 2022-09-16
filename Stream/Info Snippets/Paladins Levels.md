@@ -1,6 +1,6 @@
 <h2>Paladins champion levels</h2>
 
-Furia     285
+Furia     287
 
 Damba     138 //
 Jenos     92 //
@@ -13,17 +13,17 @@ Barik     71
 Inara     68 //
 Buck      65 //
 Androxus  65 //
-Dredge    64 //
-Maeve     64 //
+Dredge    65 //
+Maeve     65 //
 Nando     64 //
 BK        60
 
 Lian      59 //
 Strix     57 //
 Grohk     57 //
+Makoa     54 //
 Zhin      54 //
 Ruckus    53 //
-Makoa     53 //
 Ash       52 //
 Viktor    51 //
 Drogoz    50
