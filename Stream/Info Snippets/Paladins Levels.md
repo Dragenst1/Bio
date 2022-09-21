@@ -1,8 +1,8 @@
 <h2>Paladins champion levels</h2>
 
-Furia     287
+Furia     289
 
-Damba     138 //
+Damba     139 //
 Jenos     92 //
 Ying      82 //
 Khan      79 //
