@@ -2,4 +2,4 @@
 
 "*Birds sing after a storm. Why shouldn't people feel as free to delight in whatever sunlight remains to them?*" - Rose Kennedy
 
-"*How lucky I am to have something that makes saying goodbye so hard.*" - Winnie-the-pooh
+"*How lucky I am to have something that makes saying goodbye so hard.*" - Winnie the Pooh
