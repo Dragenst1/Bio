@@ -26,11 +26,11 @@ Zhin      54 //
 Ruckus    53 //
 Ash       52 //
 Viktor    51 //
-Drogoz    50
+Drogoz    50 //
+Evie      50
 
-Evie      49 //
 Sha Lin   49 //
-Cassie    46 //
+Cassie    47 //
 Io        44 //
 Torvald   42 //
 Kinessa   40 //
