@@ -16,7 +16,7 @@ Buck      65 //
 Dredge    65 //
 Maeve     65 //
 Nando     64 //
-BK        60
+Bomb King 60
 
 Lian      59 //
 Strix     58 //
