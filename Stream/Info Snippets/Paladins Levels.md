@@ -1,54 +1,54 @@
 <h2>Paladins champion levels</h2>
 
-Furia     303
+Furia     313
 
-Damba     139 //
+Damba     141 //
 Jenos     92 //
-Ying      82 //
+Ying      83 //
 Khan      79 //
 Seris     77 //
 Grover    73 //
-Barik     71
+Barik     72
 
 Inara     68 //
-Androxus  66 //
-Buck      65 //
+Androxus  67 //
+Buck      66 //
 Dredge    65 //
 Maeve     65 //
 Nando     64 //
-Bomb King 60
+Bomb King 60 //
+Lian      60
 
-Lian      59 //
 Strix     58 //
 Grohk     57 //
 Makoa     56 //
 Zhin      54 //
-Ruckus    53 //
 Ash       53 //
+Ruckus    53 //
 Evie      52 //
 Viktor    51 //
+Cassie    50 //
 Drogoz    50 //
 Sha Lin   50
 
-Cassie    48 //
-Io        44 //
+Io        45 //
 Torvald   42 //
 Kinessa   40 //
 Terminus  37 //
 Pip       34 //
-Tyra      32 //
+Tyra      33 //
 Atlas     30
 
 Moji      28 //
 Vivian    28 //
 Corvus    27 //
+Raum      27 //
 Tiberius  26 //
-Raum      26 //
 Skye      25 //
 Koga      24 //
 Lex       24 //
+Rei       24 //
 Willo     24 //
-Rei       23 //
 Talus     22 //
 Vora      19 //
 Imani     17 //
@@ -57,8 +57,8 @@ Octavia   9 //
 Saati     7 //
 Lilith    7 //
 Vatu      5 //
+Kasumi    3 //
 Azaan     0 //
 Betty     0 //
 Caspian   0 //
-Kasumi    0 //
 VII       0
