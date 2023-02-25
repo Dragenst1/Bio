@@ -1,6 +1,9 @@
 Paladins: 6345 ( Main 6185 || Alts ~165 || PTS 180 )
+
 Scrap Mechanic: 2005
+
 Robocraft: 1535
+
 Overwatch: 1170
 
 Besiege: 775
