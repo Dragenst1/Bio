@@ -2,6 +2,7 @@ Paladins: 6345 ( Main 6185 || Alts ~165 || PTS 180 )
 Scrap Mechanic: 2005
 Robocraft: 1535
 Overwatch: 1170
+
 Besiege: 775
 Factorio: 590
 Terra Tech: 505
@@ -16,6 +17,7 @@ Prison Architect: 115
 Starbound: 115
 Sims: 105 ( s4 65 || s3 40 )
 Apex Legends: 90
+
 Simple Planes: 85
 Machine Craft: 80
 Eco: 75
