@@ -10,7 +10,8 @@ Besiege: 775 -//-
 Factorio: 590 -//-
 Terra Tech: 505 -//-
 Cubic Castles: 405 -//-
-Fortnite: 290 -//-
+Fortnite: 360 ( 290 Main || 70 Alt ) -//-
+Satisfactory: 345 ( 270 Early Access || 75 Experimental ) -//-
 Subnautica: 235 ( Main 135 || Below Zero 100 ) -//-
 Tribes Ascend: 185 -//-
 Creativerse: 150 -//-
