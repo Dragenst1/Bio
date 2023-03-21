@@ -10,6 +10,7 @@ Besiege: 775 -//-
 Factorio: 590 -//-
 Terra Tech: 505 -//-
 Cubic Castles: 405 -//-
+Fortnite: 290 -//-
 Subnautica: 235 ( Main 135 || Below Zero 100 ) -//-
 Tribes Ascend: 185 -//-
 Creativerse: 150 -//-
