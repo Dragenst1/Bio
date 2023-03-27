@@ -1,4 +1,4 @@
-Paladins: 6345 ( Main 6185 || Alts ~165 || PTS 180 )
+Paladins: 6570 ( Main 6225 || Alts ~165 || PTS 180 )
 
 Scrap Mechanic: 2005
 
