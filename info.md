@@ -7,6 +7,6 @@ Discord Alt Accounts:
 - VoidRose#9518
 - WhiteRose#0117
 
-[Steam User Profile](https://steamcommunity.com/id/Dragenst1)
+[Steam User Profile](https://steamcommunity.com/id/Dragenst)
 
 [Discord Stream Server](https://discord.com/invite/Fnpe7tCj5d)
