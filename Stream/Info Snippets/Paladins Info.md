@@ -1,4 +1,4 @@
-<h2>Paladins champion levels</h2>
+<h2>champion levels</h2>
 
 Furia     344
 
@@ -63,3 +63,6 @@ Betty     0 //
 Caspian   0 //
 Nyx       0 //
 VII       0
+
+<h2>Money Spent</h2>
+$1371 USD (main)
