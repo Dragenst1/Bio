@@ -1,4 +1,4 @@
-"*No amount of money ever bought a second of time*" -Howard Stark
+"*No amount of money ever bought a second of time*" - Howard Stark
 
 "*Be who you are and say what you feel because those who mind don't matter and those who matter don't mind*" - Dr. Seuss
 
