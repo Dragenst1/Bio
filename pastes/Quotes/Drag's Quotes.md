@@ -31,3 +31,7 @@ If not for the clear blue skies or melodic birds, let my smile brighten yours.
 It might not be all there is, but your smile is all that I need.
 
 Otter families hold hands while asleep, as to not drift apart. Ain't that something.
+
+They say everyone dies twice, when you stop breathing and when your name is said for the last time. you'll only ever get the 1st
+
+There's more to live for then can ever be lived for, go out there and find what makes you say 'good morning world'
