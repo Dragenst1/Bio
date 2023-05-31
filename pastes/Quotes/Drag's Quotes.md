@@ -35,3 +35,5 @@ Otter families hold hands while asleep, as to not drift apart. Ain't that someth
 They say everyone dies twice, when you stop breathing and when your name is said for the last time. you'll only ever get the 1st
 
 There's more to live for then can ever be lived for, go out there and find what makes you say 'good morning world'
+
+The pain of failure is nothing compared to the pain of never trying
