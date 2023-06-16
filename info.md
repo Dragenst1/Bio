@@ -1,5 +1,3 @@
-Pronouns: He/Him
-
 Discord Account:
 - Dragenst#0691
 
