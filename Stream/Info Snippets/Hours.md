@@ -1,4 +1,4 @@
-Paladins: 6570 ( Main 6225 || Alts ~165 || PTS 180 )
+Paladins: 6665 ( Main 6320 || Alts ~165 || PTS 180 )
 
 Scrap Mechanic: 2005
 
@@ -7,7 +7,7 @@ Robocraft: 1535
 Overwatch: 1170
 
 Besiege: 775 -//-
-Factorio: 590 -//-
+Factorio: 600 -//-
 Terra Tech: 505 -//-
 Cubic Castles: 405 -//-
 Fortnite: 360 ( 290 Main || 70 Alt ) -//-
