@@ -1,32 +1,32 @@
 <h2>champion levels</h2>
 
-Furia     344
+Furia     352
 
 Damba     144 //
 Jenos     93 //
 Ying      89 //
-Khan      79 //
+Khan      80 //
 Seris     78 //
 Grover    75 //
 Barik     72
 
 Inara     68 //
-Androxus  67 //
+Androxus  68 //
 Maeve     67 //
-Dredge    66 //
+Dredge    67 //
 Buck      65 //
 Nando     65 //
-Bomb King 60 //
+Bomb King 61 //
 Lian      60
 
+Strix     59 //
 Grohk     58 //
-Strix     58 //
 Makoa     57 //
-Evie      54 //
+Evie      55 //
 Zhin      54 //
 Ash       53 //
 Ruckus    53 //
-Cassie    51 //
+Cassie    52 //
 Sha Lin   51 //
 Viktor    51 //
 Drogoz    50
@@ -65,4 +65,4 @@ Nyx       0 //
 VII       0
 
 <h2>Money Spent</h2>
-$1371 USD (main)
+$1583 USD (main)
