@@ -1,3 +1,5 @@
+Total: 17,200 (only games with 5+ hours)
+
 Paladins: 6665 ( Main 6320 || Alts ~165 || PTS 180 )
 
 Scrap Mechanic: 2005
