@@ -37,3 +37,9 @@ They say everyone dies twice, when you stop breathing and when your name is said
 There's more to live for then can ever be lived for, go out there and find what makes you say 'good morning world'
 
 The pain of failure is nothing compared to the pain of never trying
+
+In a world where so little can mean so much, you need not recognize the flowers you blossom in others, though, know they exist.
+
+Those who would burn with hatred and spit it unto others know only one ending, one of loneliness and an unknowing of what could.
+
+A word spoken with no person or thing to benefit from it, is a word that is better off regaling it's potential in the abstract.
