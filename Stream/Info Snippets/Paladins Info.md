@@ -1,14 +1,14 @@
 <h1>EmberDragenst</h1>
 
 Collective Champion Levels: 2731
-Account Display Level: 999
-Account XP Level: 1550
-Documented Wins: 5,342
-Account XP: 1,525,501,088
+// Account Display Level: 999
+// Account XP Level: 1550
+// Documented Wins: 5,342
+// Account XP: 1,525,501,088
 
 Champions: 58/58
-Skins Unlocked: 1260/1408
-Mounts: 27/32
+// Skins Unlocked: 1260/1408
+// Mounts: 27/32
 
 <h2>champion levels</h2>
 
