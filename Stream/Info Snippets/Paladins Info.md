@@ -1,6 +1,6 @@
 <h2>champion levels</h2>
 
-Total     2731
+Collective Champion Levels     2731
 
 Furia     361
 
