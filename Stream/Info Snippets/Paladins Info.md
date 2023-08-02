@@ -1,4 +1,4 @@
-<h1>Paladins Information</h1>
+<h1>EmberDragenst</h1>
 
 Collective Champion Levels: 2731
 Account Display Level: 999
