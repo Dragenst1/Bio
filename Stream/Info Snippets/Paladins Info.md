@@ -1,10 +1,12 @@
 <h2>champion levels</h2>
 
-Furia     352
+Total     2731
+
+Furia     361
 
 Damba     144 //
 Jenos     93 //
-Ying      89 //
+Ying      90 //
 Khan      80 //
 Seris     78 //
 Grover    75 //
@@ -44,10 +46,10 @@ Moji      28 //
 Vivian    28 //
 Raum      27 //
 Tiberius  27 //
+Rei       25 //
 Skye      25 //
 Koga      24 //
 Lex       24 //
-Rei       24 //
 Willo     24 //
 Talus     22 //
 Vora      20 //
