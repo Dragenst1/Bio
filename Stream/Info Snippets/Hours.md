@@ -1,6 +1,6 @@
-Total: 17,250 (only games with 5+ hours)
+Total: 17,290 (only games with 5+ hours)
 
-Paladins: 6745 ( Main 6400 || Alts ~165 || PTS 180 )
+Paladins: 6780 ( Main 6435 || Alts ~165 || PTS 180 )
 
 Scrap Mechanic: 2005
 
@@ -37,7 +37,7 @@ Warframe: 55 -//-
 Avorion: 50 -//-
 Ark Survival Evolved: 45 -//-
 Stardew Valley: 45 -//-
-Geometry Dash: 45 -//-
+Geometry Dash: 50 -//-
 Kingdoms & Castles: 45 -//-
 Force of Nature: 45 -//-
 Blockscape: 40 -//-
