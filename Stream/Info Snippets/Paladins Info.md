@@ -1,39 +1,39 @@
 <h1>EmberDragenst</h1>
 
-Collective Champion Levels: 2775
+Collective Champion Levels: 2790
 
 Account Display Level: 999
 
-Account XP Level: 1582
+Account XP Level: 1594
 
-Documented Wins: 5,437
+Documented Wins: 5,467
 
-Account XP: 1,557,953,254
+Account XP: 1,570,425,099
 
 Champions: 59/59
 
-Skins Unlocked: 1280/1428
+Skins Unlocked: 1286/1430
 
-Mounts: 28/34
+Mounts: 29/34
 
 <h2>champion levels</h2>
 
-Furia     389
+Furia     399
 
 Damba     145 //
 Jenos     93 //
 Ying      90 //
 Khan      80 //
 Seris     79 //
-Grover    76 //
+Grover    77 //
 Barik     72
 
 Inara     68 //
 Androxus  68 //
 Maeve     68 //
 Dredge    67 //
-Buck      65 //
-Nando     65 //
+Buck      66 //
+Nando     66 //
 Bomb King 61 //
 Lian      61 //
 Strix     60
@@ -68,11 +68,11 @@ Koga      24 //
 Lex       24 //
 Willo     24 //
 Talus     22 //
-Vora      20 //
+Vora      21 //
 Imani     17 //
 Yagorath  12 //
 Octavia   9 //
-Saati     7 //
+Saati     8 //
 Lilith    7 //
 Vatu      5 //
 Kasumi    3 //
