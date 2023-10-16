@@ -1,6 +1,6 @@
-Total: 17,290 (only games with 5+ hours)
+Total: 17,330 (only games with 5+ hours)
 
-Paladins: 6780 ( Main 6435 || Alts ~165 || PTS 180 )
+Paladins: 6820 ( Main 6475 || Alts ~165 || PTS 180 )
 
 Scrap Mechanic: 2005
 
